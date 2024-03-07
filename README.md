@@ -1,6 +1,6 @@
 # Photo-Restoration
 
-Welcome to the Photo Restoration and Image Inpainting Removal project! This tool effortlessly enhances the quality of degraded old images and removes artifacts, perfect for preserving cherished memories. With intuitive functionality, it brings new life to old photographs, ensuring they remain vivid for generations to come..
+Welcome to the Photo Restoration and Image Inpainting Removal project! This tool effortlessly enhances the quality of degraded old image and removes artifacts, perfect for preserving cherished memories. With intuitive functionality, it brings new life to old photographs, ensuring they remain vivid for generations to come..
 
 ## Generating Synthetic Images (Dataset Preparation)
 
